@@ -1,0 +1,7 @@
+Day 6
+Sampling; types of data; descriptive statistics; visualization; mean, median, mode; variance and standard deviation; quantiles; skew; correlation versus causation; profiling; converting statistics into quality rules
+From the shorter statistics course outline: L3-11 and L22-23, covering sampling, business statistics, visualization, descriptive statistics, correlation, and regression at a conceptual level. Skip detailed ANOVA. Open Statistics course
+1.5 hrs learning; 1 hr Python/Spark demonstration; 3.5 hrs profiling lab; 1 hr interpretation review; 1 hr assessment
+Python, pandas, NumPy, Matplotlib or Seaborn, PySpark, Jupyter, df.describe(), Spark summary(), optional ydata-profiling, Git
+Lab: Profile the transactions dataset for schema, nulls, duplicates, quantiles, distributions, skew, outliers, and correlations. Assessment: Interpret the profile and create eight executable quality rules. Explain why median may be preferable to mean for skewed data and why correlation does not prove causation.
+
