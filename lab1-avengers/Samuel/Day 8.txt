@@ -1,0 +1,6 @@
+Day 8
+Embeddings; vector databases; context engineering; RAG architecture; chunking; ingestion and retrieval flow; Bedrock Knowledge Bases; metadata; grounding; source references; abstention; Agentic RAG overview
+AI L38-50: vector databases, context engineering, RAG introduction and data flow, Bedrock Knowledge Base, data source, vector database, knowledge-base lab, Agentic RAG. Open Agentic AI course
+2 hrs learning; 1 hr Bedrock/RAG demonstration; 3 hrs knowledge-base lab; 1 hr evaluation-set preparation; 1 hr assessment
+Amazon Bedrock, Bedrock Knowledge Bases if approved, S3, approved embedding and foundation model, vector store configured by the sandbox, Python, data dictionary, schema, README, Git
+Lab: Build a knowledge source from the data dictionary, schema, pipeline README, and quality rules. Ask engineering questions and capture supporting sources. Assessment: Create ten answerable and three unanswerable questions; record expected source, actual answer, grounding result, and failure analysis.
